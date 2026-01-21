@@ -1,9 +1,3 @@
-Nice, this is a solid starter 👍
-Below is a **clean, production-ready README.md** you can drop directly into the repo.
-It explains **Fastify + TypeScript + Prisma + PostgreSQL (Docker)** clearly and avoids the common auth pitfalls you hit.
-
-You can copy-paste this as `README.md`.
-
 ---
 
 # Fastify + TypeScript + Prisma + PostgreSQL Starter
